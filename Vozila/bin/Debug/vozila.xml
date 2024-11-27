@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vozila>
+  <Vozilo>
+    <Marka>audi</Marka>
+    <Model>tt</Model>
+    <GodinaProizvodnje>2019</GodinaProizvodnje>
+    <Kilometraza>10000</Kilometraza>
+  </Vozilo>
+  <Vozilo>
+    <Marka>bmw</Marka>
+    <Model>m3</Model>
+    <GodinaProizvodnje>2018</GodinaProizvodnje>
+    <Kilometraza>568</Kilometraza>
+  </Vozilo>
+</Vozila>
